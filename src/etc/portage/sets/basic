@@ -29,7 +29,7 @@ net-fs/autofs
 # System / security utilities
 sys-apps/gradm
 app-shells/dash
-app-admin/eselect-sh
+app-eselect/eselect-sh
 app-admin/metalog
 app-admin/sudo
 app-misc/hatools
