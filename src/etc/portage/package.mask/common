@@ -4,8 +4,5 @@ dev-libs/elfutils
 # Prefer non-DB sys-apps/man
 sys-apps/man-db
 
-# Prefer media-video/libav + media-libs/libpostproc
-media-video/ffmpeg
-
 # Prefer media-plugins/gst-plugins-cdio
 media-plugins/gst-plugins-cdparanoia
