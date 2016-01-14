@@ -5,8 +5,8 @@
 =net-wireless/reaver-1.4*
 
 # Guest virtualization
-=app-emulation/open-vm-tools-2013.09.16*
-=app-emulation/open-vm-tools-kmod-2013.09.16*
+=app-emulation/open-vm-tools-10.0.0_p3000743*
+=app-emulation/open-vm-tools-kmod-10.0.0_p3000743*
 =app-emulation/virtualbox-guest-additions-4.3.12*
 =x11-drivers/xf86-video-virtualbox-4.3.12*
 =dev-util/kbuild-0.1.9998_pre20131130*
@@ -21,7 +21,6 @@
 sys-kernel/linux-firmware
 sys-firmware/b43-firmware
 sys-firmware/b43legacy-firmware
-x11-drivers/radeon-ucode
 
 # Compilation failure (#317539)
 =net-wireless/irda-utils-0.9.18*
