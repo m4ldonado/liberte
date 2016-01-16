@@ -53,8 +53,6 @@ net-firewall/iptables
 sys-apps/ethtool
 net-wireless/crda
 net-wireless/rfkill
-net-wireless/aircrack-ng
-net-wireless/reaver
 net-misc/networkmanager
 net-misc/networkmanager-pptp
 net-misc/networkmanager-openvpn
