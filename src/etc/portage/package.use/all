@@ -23,7 +23,7 @@ app-text/poppler                cairo
 # [xf86-video-ati[glamor] requires mesa[egl,gbm]]
 # [xf86-video-vmware requires mesa[xa]]
 # [xf86-video-virtualbox[dri] conflicts w/ mprotect]
-media-libs/mesa                 xa gbm -llvm
+media-libs/mesa                 xa
 x11-libs/libdrm                 libkms
 x11-drivers/xf86-video-virtualbox -dri
 app-emulation/open-vm-tools     -X
