@@ -100,3 +100,9 @@ net-wireless/wpa_supplicant     ap p2p
 # Internationalization
 app-i18n/uim                    -linguas_*
 media-fonts/terminus-font       quote ru-dv ru-i
+
+
+# app-crypt/pinentry[gnome-keyring] required by net-misc/networkmanager-pptp-1.0.6::gentoo[gtk]
+app-crypt/pinentry	gnome-keyring
+
+
