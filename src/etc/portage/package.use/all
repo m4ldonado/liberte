@@ -87,7 +87,6 @@ sys-devel/gcc                   cxx
 sys-devel/binutils              cxx
 www-client/firefox              custom-cflags custom-optimization
 sys-fs/udev                     gudev
-gnome-base/librsvg              tools
 dev-util/strace                 aio
 app-portage/eix                 strong-security
 dev-db/sqlite                   secure-delete
