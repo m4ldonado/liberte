@@ -164,6 +164,8 @@ fi
 
 
 sinfo "Compiling world"
+#have to explicitly state shell for firefox to emerge
+export SHELL=/bin/bash
 emerge -quDN --with-bdeps=y @world
 
 

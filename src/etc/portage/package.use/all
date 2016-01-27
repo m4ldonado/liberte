@@ -45,7 +45,7 @@ virtual/ffmpeg                  -X -encode -truetype
 media-sound/sox                 encode
 media-sound/vorbis-tools        speex
 media-plugins/gst-plugins-meta  dv lame theora vpx x264 xvid  a52 dts dvd libass mms mpeg  ffmpeg
-www-client/firefox              -alsa gstreamer  system-jpeg system-cairo system-sqlite system-icu  -wifi
+www-client/firefox              -alsa gstreamer  system-jpeg system-cairo system-sqlite system-icu  -wifi bindist
 media-libs/libass               -harfbuzz
 media-gfx/graphicsmagick        -truetype
 
